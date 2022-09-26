@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "ELEGANTS NAILS AND SPA",
+        "slug"      : "elegants-nails-and-spa", 
+        "phone"     : "(856) 352-4930", 
+        "email"     : "minumberone91@gmail.com",
+        "address"   : "1135 Hurffville Rd Deptford, New Jersey 08096",
+        "time_1"    : "[Monday - Friday] 9:30 AM - 7:30 PM",
+        "time_2"    : "[Saturday] 9:00 AM - 6:00 PM",
+        "time_3"    : "[Sun] Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/profile.php?id=100066790203382&ref=py_c",
+        "instagram" :   "https://www.instagram.com/elegants_nails_and_spa/?hl=en",
+        "google"    :   "https://goo.gl/maps/X4BUMkmMPRwepP8v5", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc1NjV8ZWxlZ2FudDg4fE5KXzA3OTgzfGJhN2MzYzNkMDg0Mzg0MTcyZWM0ZmE2YzI0ZjJhZDg1",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12254.854242267347!2d-75.0875278!3d39.8358394!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x18d8c3eae77868c7!2sElegants%20Nails%20and%20Spa!5e0!3m2!1sen!2s!4v1663744770389!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#C98838",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#F30000",
+        "secondary"             :   "#E9B04E",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5501/"
+}
